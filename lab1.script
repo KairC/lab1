@@ -1,53 +1,8 @@
-命令稿啟動於 2017年03月14日 (週二) 13時14分30秒
-]0;kai@kai-VirtualBox ~[01;32mkai@kai-VirtualBox[00m [01;34m~ $[00m whoamil[K; pwd
-kai
-/home/kai
-]0;kai@kai-VirtualBox ~[01;32mkai@kai-VirtualBox[00m [01;34m~ $[00m git config -;[Kl[KI[Kl
-]0;kai@kai-VirtualBox ~[01;32mkai@kai-VirtualBox[00m [01;34m~ $[00m git config -l[KI
-error: unknown switch `I'
-usage: git config [<options>]
+命令稿啟動於 2017年03月14日 (週二) 13時34分32秒
+]0;kai@kai-VirtualBox ~/lab1[01;32mkai@kai-VirtualBox[00m [01;34m~/lab1 $[00m ./lab1
+22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+]0;kai@kai-VirtualBox ~/lab1[01;32mkai@kai-VirtualBox[00m [01;34m~/lab1 $[00m sa[K[Kcat lab1.[K[K[K[K[K[K[K[K[Kexit
 
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-
-]0;kai@kai-VirtualBox ~[01;32mkai@kai-VirtualBox[00m [01;34m~ $[00m git clone https://github.com/KairC/lab1.git
-Cloning into 'lab1'...
-remote: Counting objects: 3, done.[K
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
-Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
-Checking connectivity... done.
-]0;kai@kai-VirtualBox ~[01;32mkai@kai-VirtualBox[00m [01;34m~ $[00m exit
-
-命令稿已於 2017年03月14日 (週二) 13時15分11秒
+命令稿已於 2017年03月14日 (週二) 13時34分55秒
  完成
